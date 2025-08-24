@@ -1,1 +1,2 @@
 Share price analysis over a twenty year period
+A project analysing over 160,000 data point acroos 27 columns and 6000 rows - addition by Jean
